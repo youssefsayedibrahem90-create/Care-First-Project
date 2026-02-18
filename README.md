@@ -1,6 +1,6 @@
 # Care-First-Project
 
-### _Care First is a trusted provider of authentic home medical devices designed to help families monitor their health with confidence. As an official distributor of Piedo products, Care First offers guaranteed original devices with two-year replacement warranties, ensuring reliability and peace of mind._
+### _Care First is your trusted source for original home medical devices, guaranteed quality, easy support, and peace of mind for your family._
 
 ---
 
@@ -21,15 +21,16 @@
 ---
 
 ##  Project Overview
-[Write a clear paragraph explaining what the project is about, what problem it solves, and how it will be presented.]
+Care First is a trusted provider of authentic home medical devices designed to help families monitor their health with confidence. As an official distributor of Piedo products, Care First offers guaranteed original devices with two-year replacement warranties, ensuring reliability and peace of mind.
+The brand focuses on simplifying the buying process for essential home medical tools such as blood pressure monitors, glucose meters, and nebulisers by providing verified products, clear guidance, and dependable after-sales support.
+Care First’s mission is to make health monitoring at home safe, easy, and stress-free for every household.
 
 ---
 
 ## Project Objectives
-- [Objective 1]  
-- [Objective 2]  
-- [Objective 3]  
-- [Objective 4]  
+- Increase Sales to 15% in 6 months  
+- Increase Engagement to 15% in 3 months  
+- Increase Followers to 30% in 3 months    
 
 ---
 
