@@ -5,7 +5,7 @@
 ---
 
 ##  Team Members
-- **Youssef Sayed Ibrahem**  
+- **Youssef Sayed Ibrahem {Team Leader}**  
 - **Mostafa Rafat Shousha**  
 - **Rawan Ashour**
 - **Abdelrahamn Hamdy**
@@ -35,33 +35,52 @@ Care First’s mission is to make health monitoring at home safe, easy, and stre
 ---
 
 ##  Project Scope
-- [Scope item 1]  
-- [Scope item 2]  
-- [Scope item 3]  
-- [Scope item 4]  
-- [Scope item 5]  
+- Develop a monthly content strategy aligned with CareFirst’s brand identity
+- Create a complete publishing plan (Posts – Reels – Stories) based on market insights
+- Manage social media platforms (Facebook – Instagram – TikTok)
+- Set up and optimize paid advertising campaigns to boost reach and sales
+- Conduct monthly performance analysis and provide detailed insight reports 
 
->  **Final Deliverable:** [Describe the final output of the project]
+>  **Final Deliverable:** A complete digital marketing plan including content strategy, publishing calendar, ad strategy, and ready-to-use performance report templates.
 
 ---
 
 ## Project Plan (5 Weeks)
 
-###  Week 1 — [Title]
-- [Task]  
+###  Week 1 — Research & Strategy
+- Competitor analysis
+
+- Audience analysis (based on STP & Buyer Persona)
+
+- Review SWOT and define the main USP (Official Piedo distributor + 2-year replacement warranty) 
 
 
-### Week 2 — [Title]
-- [Task]  
+### Week 2 — Content Planning & Creative Direction
+- Create content pillars
+
+- Build the monthly content calendar (Posts – Reels – Stories)
+
+- Define the tone of voice and visual direction  
 
 
-### Week 3 — [Title]
-- [Task]  
+### Week 3 — Content Production
+- Write all content copy
+
+- Design visuals and short-form videos
+
+- Prepare platform-specific versions for Facebook, Instagram, and TikTok 
 
 
-### Week 4 — [Title]
-- [Task]  
+### Week 4 — Publishing & Ads Setup
+- Start publishing according to the content schedule
 
+- Set up Meta Ads campaigns to improve reach and sales
 
-### Week 5 — [Title]
-- [Task]  
+- Run A/B testing on creatives and messaging
+
+### Week 5 — Performance Analysis & Optimization
+- Analyze insights and performance metrics
+
+- Compare results against monthly KPIs
+
+- Optimize the plan based on weaknesses and opportunities  
