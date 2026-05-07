@@ -4,6 +4,9 @@
 
 ---
 
+## Marketing Plan Link:
+https://docs.google.com/spreadsheets/d/1lka1H3KCjJaG6bu-8Y1E6sMBDN_5Jz4S/edit?usp=sharing&ouid=107526120902096272627&rtpof=true&sd=true
+
 ##  Team Members
 - **Youssef Sayed Ibrahem {Team Leader}**  
 - **Mostafa Rafat Shousha**  
