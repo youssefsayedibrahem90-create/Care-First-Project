@@ -5,14 +5,19 @@
 ---
 
 ## Marketing Plan Link:
-https://docs.google.com/presentation/d/16I8uRYyGt5W-CNIfGswG7ZIYcytlsf7vKGNnZ-TLV1k/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1lka1H3KCjJaG6bu-8Y1E6sMBDN_5Jz4S/edit?usp=sharing&ouid=107526120902096272627&rtpof=true&sd=true
 
 ## Content Calendar Links:
 https://docs.google.com/spreadsheets/d/1IylGoGLv35y7PR_ENpTLOH64AaLB26k7/edit?usp=sharing&ouid=107526120902096272627&rtpof=true&sd=true
 
+## SEO Link:
+https://drive.google.com/file/d/1EWXzByH32TYUidP16ifilcdx5KwcOCQA/view?usp=drive_link
+
+## Media Buying Plan:
+https://drive.google.com/file/d/11ZRjF0krhvZxa4_rQ7VS74m35m8nbh5W/view?usp=drive_link
+
 ## Presentation Link:
-https://docs.google.com/spreadsheets/d/1lka1H3KCjJaG6bu-8Y1E6sMBDN_5Jz4S/edit?
-usp=sharing&ouid=107526120902096272627&rtpof=true&sd=true
+https://docs.google.com/presentation/d/16I8uRYyGt5W-CNIfGswG7ZIYcytlsf7vKGNnZ-TLV1k/edit?usp=drive_link
 
 
 ##  Team Members
